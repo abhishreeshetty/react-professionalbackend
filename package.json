@@ -1,0 +1,24 @@
+{
+  "name": "react-professionalbackend",
+  "version": "1.0.0",
+  "description": "This is a CRM system back-end serices for Cutomers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shettyabhi48/react-professionalbackend.git"
+  },
+  "keywords": [
+    "customers",
+    "react",
+    "backend"
+  ],
+  "author": "Abhishree Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shettyabhi48/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/shettyabhi48/react-professionalbackend#readme"
+}
